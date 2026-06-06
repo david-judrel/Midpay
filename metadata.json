@@ -1,0 +1,6 @@
+{
+  "name": "MidPay",
+  "description": "Next-generation African fintech platform from Brazzaville, Congo. Delivering elite, minimalist, ultra-fast and trustworthy payment routing solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
